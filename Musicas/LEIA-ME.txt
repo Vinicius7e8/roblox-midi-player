@@ -1,0 +1,5 @@
+Coloque aqui os arquivos .mid que você quer tocar.
+Eles aparecem na lista do Roblox MIDI Player pelo nome do arquivo.
+Com o programa aberto, clique em "Atualizar" depois de colocar uma música nova.
+
+Put your .mid files here. They show up in the player's list by file name.
